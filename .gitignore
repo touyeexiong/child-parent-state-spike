@@ -21,3 +21,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# https://stackoverflow.com/questions/40722382/how-to-pass-state-back-to-parent-in-react
